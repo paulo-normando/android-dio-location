@@ -1,4 +1,5 @@
-[In Progress]
-
 # android-dio-location
-Native android aplication for Google Maps Api use
+
+[work in progress]
+
+app to practice access to native resources based in Google Maps Api use
